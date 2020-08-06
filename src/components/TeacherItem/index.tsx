@@ -2,37 +2,54 @@ import React from 'react';
 
 import './styles.css';
 import whatsIcon from '../../assets/img/icons/whatsapp2.svg'
+import api from '../../services/api';
 
 interface TeacherItens {
-  name: String;
-  materia: String;
-  preco: String;
-  descricao: String;
-  url_img: String;
+  teacher: {
+    avatar: string;
+    bio: string;
+    cost: Number;
+    id: Number;
+    name: string;
+    subject: string;
+    whatsapp: string;
+  }
 }
 
-const TeacherItem: React.FC<TeacherItens> = (props) => {
+const TeacherItem: React.FC<TeacherItens> = ({ teacher }) => {
+
+  function CreateNewConnection() {
+    api.post('connections', {
+      user_id: teacher.id,
+    })
+  }
+
   return(
     <article className="teacher-item">
       <header>
-        <img src={`${props.url_img}`} alt={`${props.name}`}/>
+        <img src={`${teacher.avatar}`} alt={`${teacher.name}`}/>
         <div>
-          <strong>{props.name}</strong>
-          <span>{props.materia}</span>
+          <strong>{teacher.name}</strong>
+          <span>{teacher.subject}</span>
         </div>
       </header>
       <p>
-        {props.descricao}
+        {teacher.bio}
       </p>
       <footer>
         <p>
           Preço/hora
-          <strong>R$ {props.preco}</strong>
+          <strong>R$ {teacher.cost}</strong>
         </p>
-        <button type="button">
+        <a 
+          // eslint-disable-next-line react/jsx-no-target-blank
+          target="_blank" 
+          onClick={CreateNewConnection} 
+          href={`https://wa.me/${teacher.whatsapp}`}
+        >
           <img src={whatsIcon} alt="Icone do Whatsapp"/>
           Entrar em contato
-        </button>
+        </a>
       </footer>
     </article>
   )
