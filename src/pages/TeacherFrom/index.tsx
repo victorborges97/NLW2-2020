@@ -5,7 +5,7 @@ import Textarea from '../../components/Textarea';
 import Select from '../../components/Select';
 import Input from '../../components/Input';
 
-import warningIcon from '../../assets/img/icons/warning.svg'
+import warningIcon from '../../assets/img/icons/warning.svg';
 
 import './styles.css';
 import api from '../../services/api';
