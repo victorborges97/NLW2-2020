@@ -1,0 +1,2 @@
+Buscar Todas as Tabelas do Users selecionada
+SELECT * FROM users INNER JOIN classes ON users.id = user_id INNER JOIN classes_schedule ON classes.id = class_id WHERE users.id = {Qual Id do User}
