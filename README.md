@@ -110,11 +110,9 @@ $ git clone https://github.com/victorborges97/NLW2-2020
 
 <span class="pl-c"><span class="pl-c">#</span> O projeto Front-end(WEB) inciará na porta: 3000 - acesse http://localhost:3000 </span>
 
-<span class="pl-c"><span class="pl-c">#</span> O projeto Mobile inciará na porta: 19002 - acesse http://localhost:19002 </span>
+<span class="pl-c"><span class="pl-c">#</span> O projeto Mobile inciará na porta: 19002 - acesse http://localhost:19002 </span><span>Não esqueça de mudar o ip da api, para o ip do seu computador</span>
 
-<span class="pl-c"><span class="pl-c">#</span>
-Não esqueça de mudar o ip da api, para o ip do seu computador
-</span> \* Pasta: src\services
+\* Pasta: src\services
 
 </pre>
 </div>
@@ -129,13 +127,13 @@ Não esqueça de mudar o ip da api, para o ip do seu computador
 </h4>
 <ul>
   <li>
-    <strong><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow">ReactJS</a><strong>
+    <strong><a href="https://pt-br.reactjs.org/" rel="nofollow">ReactJS</a><strong>
   </li>
   <li>
     <strong><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow">Css</a></strong>
   </li>
   <li>
-    <strong><a href="#" rel="nofollow">Typescript</a></strong>
+    <strong><a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a></strong>
   </li>
 </ul>
 
@@ -150,13 +148,13 @@ Não esqueça de mudar o ip da api, para o ip do seu computador
     <strong><a href="https://expressjs.com/" rel="nofollow">Express</a><strong>
   </li>
   <li>
-    <strong><a href="#" rel="nofollow">Knex</a></strong>
+    <strong><a href="http://knexjs.org/" rel="nofollow">Knex</a></strong>
   </li>
 </ul>
 
 <h4>
   <strong>Mobile</strong>  
-  (<a href="#" rel="nofollow">Expo</a>)
+  (<a href="https://expo.io/" rel="nofollow">Expo</a>)
 </h4>
 <h4>
 <strong>Utilitários</strong>
