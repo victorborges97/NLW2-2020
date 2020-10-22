@@ -26,8 +26,8 @@
     <a target="_blank" rel="noopener noreferrer" href="/K-Schaeffer/NLW-2/blob/master/.github/proffy-banner.png"><img alt="Proffy-Banner" title="Proffy" src="/K-Schaeffer/NLW-2/raw/master/.github/proffy-banner.png" style="max-width:100%;"></a>
 </h1>
 
-<h4 align="center"><a id="user-content----proffy--concluído-️-" class="anchor" aria-hidden="true" href="#---proffy--concluído-️-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> 
-	<g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji>  Proffy <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨&zwj;🏫</g-emoji> Concluído <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji>
+<h4 align="center">
+ :construction:	Proffy  Concluído :heavy_check_mark:
 </h4>
 
 <p align="center">
@@ -40,10 +40,12 @@
  <a href="#-licença">Licença</a>
 </p>
 
-<h2><a id="user-content--sobre-o-projeto" class="anchor" aria-hidden="true" href="#-sobre-o-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Sobre o projeto</h2>
+<h2>:computer: Sobre o projeto</h2>
 <p>Projeto desenvolvido durante a <strong>NLW #2- Next Level Week 2</strong> oferecida pela <a href="https://nextlevelweek.com/episodios/discovery/1/edicao/2" rel="nofollow">Rocketseat</a>.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.</p>
-<p><g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨&zwj;🏫</g-emoji> Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias.  Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação.
+<p>
+:icon:
+Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias.  Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação.
 <br>A mim este projeto teve o caráter fundamental de reforçar as bases do desenvolvimento front-end, principalmente com HTML e CSS.</p>
 <hr>
 
@@ -71,7 +73,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 </ul>
 <hr>
 
-<h2><a id="user-content--layout" class="anchor" aria-hidden="true" href="#-layout"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> :art: Layout</h2>
+<h2> :art: Layout</h2>
 <p align="center">
 <a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web" rel="nofollow">
   <img alt="Figma layout" src="https://camo.githubusercontent.com/10f2bd14ea24c1674c875fe83ddf72d4a1591a6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61796f7574253230507265766965772532302d4669676d612d253233303444333631" data-canonical-src="https://img.shields.io/badge/Layout%20Preview%20-Figma-%2304D361" style="max-width:100%;">
@@ -88,18 +90,18 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 </p>
 <hr>
 
-<h2><a id="user-content--preview" class="anchor" aria-hidden="true" href="#-preview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">📺</g-emoji> Preview</h2>
+<h2> :tv: Preview</h2>
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="/K-Schaeffer/NLW-2/blob/master/.github/Preview-Functionality.gif"><img alt="Preview" src="/K-Schaeffer/NLW-2/raw/master/.github/Preview-Functionality.gif" width="800px" style="max-width:100%;"></a>
 </p>
 <hr>
 
-<h2><a id="user-content--como-executar-o-projeto" class="anchor" aria-hidden="true" href="#-como-executar-o-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Como executar o projeto</h2>
+<h2> :rocket: Como executar o projeto</h2>
 <p>Este projeto consiste em três partes:</p>
 <ol>
-<li><a href="/K-Schaeffer/NLW-2/blob/master/src/views/pages">Frontend</a></li>
-<li><a href="/K-Schaeffer/NLW-2/blob/master/src/server.js">Backend</a></li>
-<li><a href="/K-Schaeffer/NLW-2/blob/master/src/database">Database</a></li>
+<li><a href="/victorborges97/NLW2-2020/tree/master/front-end/src/pages">Frontend</a></li>
+<li><a href="/victorborges97/NLW2-2020/tree/master/back-end">Backend</a></li>
+<li><a href="/victorborges97/NLW2-2020/tree/master/mobile/src/pages">Mobile</a></li>
 </ol>
 
 <h3><a id="user-content-pré-requisitos" class="anchor" aria-hidden="true" href="#pré-requisitos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Pré-requisitos</h3>
