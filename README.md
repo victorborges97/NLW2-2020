@@ -23,7 +23,7 @@
 </p>
 
 <h1 align="center">
-    <a target="_blank" rel="noopener noreferrer" href="/blob/master/.github/NWL-BANNER.jpg"><img alt="Proffy-Banner" title="Proffy" src="/blob/master/.github/NWL-BANNER.jpg" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="/.github/NWL-BANNER.jpg"><img alt="Proffy-Banner" title="Proffy" src="/.github/NWL-BANNER.jpg" style="max-width:100%;"></a>
 </h1>
 
 <h4 align="center">
