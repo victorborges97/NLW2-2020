@@ -87,22 +87,31 @@ Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores d
 
 <h4>🎲 Rodando o projeto</h4>
 <div class="highlight highlight-source-shell">
-  <pre>
-  <span class="pl-c"><span class="pl-c">#</span> Clone o repositório</span>
-    $ git clone https://github.com/victorborges97/NLW2-2020
+<pre>
+<span class="pl-c"><span class="pl-c">#</span> Clone o repositório</span>
+$ git clone https://github.com/victorborges97/NLW2-2020
 
-  <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no prompt de comando</span>
-  \$ <span class="pl-c1">cd</span> NLW-2
+<span class="pl-c"><span class="pl-c">#</span> Acesse cada pasta do projeto no prompt de comando</span>
+\$ cd NLW2-2020
+\$ cd back-end
+\$ cd front-end
+\$ cd mobile
 
-  <span class="pl-c"><span class="pl-c">#</span> Instale as dependências</span>
-  \$ npm install
+<span class="pl-c"><span class="pl-c">#</span> Instale as dependências</span>
+\$ npm install
+<span>OU</span>
+\$ yarn install
 
-  <span class="pl-c"><span class="pl-c">#</span> Execute o script "dev"</span>
-  \$ npm run dev
+<span class="pl-c"><span class="pl-c">#</span> Execute o script "dev" no back-end e depois na web ou mobile</span>
+\$ npm dev
+<span>OU</span>
+\$ yarn dev
 
-  <span class="pl-c"><span class="pl-c">#</span> O projeto inciará na porta: 3000 - acesse http://localhost:3000 </span>
+<span class="pl-c"><span class="pl-c">#</span> O projeto Front-end(WEB) inciará na porta: 3000 - acesse http://localhost:3000 </span>
 
-  </pre>
+<span class="pl-c"><span class="pl-c">#</span> O projeto Mobile inciará na porta: 19002 - acesse http://localhost:19002 </span>
+
+</pre>
 </div>
 
 <p>Feito isso, basta executar o procedimento de rodar o projeto, cadastrar professores, e buscá-los ;)</p>
@@ -112,31 +121,37 @@ Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores d
 <p>As seguintes ferramentas foram usadas na construção do projeto:</p>
 <h4>
 <strong>Front-end</strong>
-(<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow">HTML</a>  +  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow">CSS</a> + <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="nofollow">JS</a>)
-</h4>
-<h4>
-<strong>Back-end</strong>  
-(<a href="https://nodejs.org/en/" rel="nofollow">NodeJS</a>)
 </h4>
 <ul>
+  <li>
+    <strong><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow">ReactJS</a><strong>
+  </li>
+  <li>
+    <strong><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow">Css</a></strong>
+  </li>
+  <li>
+    <strong><a href="#" rel="nofollow">Typescript</a></strong>
+  </li>
+</ul>
+
+<h4>
+<strong>Back-end</strong>  
+</h4>
+<ul>
+  <li>
+    <strong><a href="https://nodejs.org/en/" rel="nofollow">NodeJS</a></strong>
+  </li>  
   <li>
     <strong><a href="https://expressjs.com/" rel="nofollow">Express</a><strong>
   </li>
   <li>
-    <strong><a href="https://mozilla.github.io/nunjucks/" rel="nofollow">Nunjucks</a></strong>
-  </li>
-  <li>
-    <strong><a href="https://nodemon.io" rel="nofollow">Nodemon</a></strong>
+    <strong><a href="#" rel="nofollow">Knex</a></strong>
   </li>
 </ul>
-<blockquote>
-  <p>Veja o arquivo 
-    <a href="/K-Schaeffer/NLW-2/blob/master/package.json">package.json</a>
-  </p>
-</blockquote>
+
 <h4>
-  <strong>Database</strong>  
-  (<a href="https://www.npmjs.com/package/sqlite-async" rel="nofollow">Sqlite-Async</a>)
+  <strong>Mobile</strong>  
+  (<a href="#" rel="nofollow">Expo</a>)
 </h4>
 <h4>
 <strong>Utilitários</strong>
