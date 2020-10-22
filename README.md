@@ -91,13 +91,14 @@ Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores d
 <span class="pl-c"><span class="pl-c">#</span> Clone o repositório</span>
 $ git clone https://github.com/victorborges97/NLW2-2020
 
-<span class="pl-c"><span class="pl-c">#</span> Acesse cada pasta do projeto no prompt de comando</span>
+<span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no prompt de comando, depois entre em cada pasta Back-end, Front-end e Mobile.</span>
 \$ cd NLW2-2020
+
 \$ cd back-end
 \$ cd front-end
 \$ cd mobile
 
-<span class="pl-c"><span class="pl-c">#</span> Instale as dependências</span>
+<span class="pl-c"><span class="pl-c">#</span> Instale as dependências (em cada uma das pastas acima)</span>
 \$ npm install
 <span>OU</span>
 \$ yarn install
@@ -110,6 +111,10 @@ $ git clone https://github.com/victorborges97/NLW2-2020
 <span class="pl-c"><span class="pl-c">#</span> O projeto Front-end(WEB) inciará na porta: 3000 - acesse http://localhost:3000 </span>
 
 <span class="pl-c"><span class="pl-c">#</span> O projeto Mobile inciará na porta: 19002 - acesse http://localhost:19002 </span>
+
+<span class="pl-c"><span class="pl-c">#</span>
+Não esqueça de mudar o ip da api, para o ip do seu computador
+</span> \* Pasta: src\services
 
 </pre>
 </div>
