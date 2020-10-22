@@ -24,7 +24,7 @@
 <p align="center">
     	<a target="_blank" rel="noopener noreferrer" href="#"><img alt="Project language" src="#" data-canonical-src="#" style="max-width:100%;"></a>
 	<a href="#">
-    		<img alt="Swap readme language" src="https://camo.githubusercontent.com/eed649aad91f27ae491e879b9c310dcc47914807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456e676c697368253230526561644d652d5965732d696d706f7274616e74" data-canonical-src="https://img.shields.io/badge/English%20ReadMe-Yes-important" style="max-width:100%;">
+    		<img alt="Swap readme language" src="#" data-canonical-src="#" style="max-width:100%;">
   	</a>
 </p>
 
