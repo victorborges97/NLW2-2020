@@ -63,11 +63,11 @@ Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores d
 </p>
 <h3>Web</h3>
 <p align="center">
-  <img alt="Layout Modelo WEB" src="https://giphy.com/gifs/YRDPusnX5w35SOmCLx/html5" data-canonical-src="https://giphy.com/gifs/YRDPusnX5w35SOmCLx/html5" style="max-width:100%;">
+  <a target="_blank" rel="noopener noreferrer" href="/.github/gif-nlw-web.gif"><img alt="Layout Modelo WEB" src="/.github/gif-nlw-web.gif" style="max-width:100%;"></a>
 </p>
 <h3>Mobile</h3>
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="/K-Schaeffer/NLW-2/blob/master/.github/mobile-preview.png"><img alt="Mobile preview" title="Mobile-preview" src="/.github/Expo%20(1).gif" width="400px" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="/.github/Expo%20(1).gif"><img alt="Layout Modelo MOBILE" src="/.github/Expo%20(1).gif" width="400px" style="max-width:100%;"></a>
 </p>
 <hr>
 
