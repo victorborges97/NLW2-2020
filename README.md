@@ -110,9 +110,7 @@ $ git clone https://github.com/victorborges97/NLW2-2020
 
 <span class="pl-c"><span class="pl-c">#</span> O projeto Front-end(WEB) inciará na porta: 3000 - acesse http://localhost:3000 </span>
 
-<span class="pl-c"><span class="pl-c">#</span> O projeto Mobile inciará na porta: 19002 - acesse http://localhost:19002 </span><span>Não esqueça de mudar o ip da api, para o ip do seu computador</span>
-
-\* Pasta: src\services
+<span class="pl-c"><span class="pl-c">#</span> O projeto Mobile inciará na porta: 19002 - acesse http://localhost:19002 </span><span>Não esqueça de mudar o ip da api, para o ip do seu computador</span> \* Pasta: src\services
 
 </pre>
 </div>
