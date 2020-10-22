@@ -27,7 +27,7 @@
 </h1>
 
 <h4 align="center">
- :construction:	Proffy  Concluído :heavy_check_mark:
+ 	Proffy :construction: Concluído :heavy_check_mark:
 </h4>
 
 <p align="center">
